@@ -1,0 +1,19 @@
+{
+  "name": "redux-counter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mightyhyuk/redux-counter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mightyhyuk/redux-counter/issues"
+  },
+  "homepage": "https://github.com/mightyhyuk/redux-counter#readme"
+}
